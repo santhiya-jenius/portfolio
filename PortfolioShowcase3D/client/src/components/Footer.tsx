@@ -31,7 +31,7 @@ export default function Footer() {
         
         <div className="border-t border-accent/20 pt-8">
           <p className="text-accent/80">
-            © 2024 Santhiya T. All rights reserved. | Designed with{" "}
+            © 2024 Santhiya T. All rights reserved. |
             <i className="fas fa-heart text-primary mx-1" />
             using Three.js
           </p>
