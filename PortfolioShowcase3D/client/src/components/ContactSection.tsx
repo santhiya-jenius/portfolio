@@ -11,17 +11,17 @@ const contactInfo = [
   {
     icon: "fas fa-envelope",
     title: "Email",
-    details: ["anbulegend101@gmail.com", "sivambanbu1012005@gmail.com"]
+    details: ["santhiyatamil032005@gmail.com"]
   },
   {
     icon: "fas fa-phone",
     title: "Phone",
-    details: ["+91 9790155280"]
+    details: ["+91 87783 42086"]
   },
   {
     icon: "fas fa-map-marker-alt",
     title: "Location",
-    details: ["199, Kambattu", "Tiruvannamalai, Tamil Nadu 606753"]
+    details: ["Tirukovilur", "Kallakurichi", "Tamil Nadu 606753"]
   }
 ];
 
