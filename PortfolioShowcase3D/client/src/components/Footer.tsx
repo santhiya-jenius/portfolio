@@ -1,8 +1,8 @@
 const socialLinks = [
-  { href: "https://www.linkedin.com/in/", icon: "fab fa-linkedin", label: "LinkedIn" },
-  { href: "https://-port-folio.netlify.app/", icon: "fas fa-globe", label: "Portfolio" },
-  { href: "https://linktr.ee/", icon: "fab fa-github", label: "GitHub" },
-  { href: "https://linktr.ee/", icon: "fas fa-link", label: "Linktree" },
+  { href: "https://www.linkedin.com/in/santhiyatamil/", icon: "fab fa-linkedin", label: "LinkedIn" },
+  { href: "https://sandyportfolio.onrender.com/", icon: "fas fa-globe", label: "Portfolio" },
+  { href: "https://github.com/santhiya-jenius", icon: "fab fa-github", label: "GitHub" },
+  { href: "https://linktr.ee/sandyjenius", icon: "fas fa-link", label: "Linktree" },
 ];
 
 export default function Footer() {
