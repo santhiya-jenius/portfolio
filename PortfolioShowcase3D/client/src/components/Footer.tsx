@@ -33,7 +33,6 @@ export default function Footer() {
           <p className="text-accent/80">
             © 2024 Santhiya T. All rights reserved. |
             <i className="fas fa-heart text-primary mx-1" />
-            using Three.js
           </p>
         </div>
       </div>
