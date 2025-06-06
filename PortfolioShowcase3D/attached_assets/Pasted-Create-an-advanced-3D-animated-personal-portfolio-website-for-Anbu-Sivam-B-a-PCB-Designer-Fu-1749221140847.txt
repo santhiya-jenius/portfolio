@@ -1,0 +1,109 @@
+Create an advanced 3D animated personal portfolio website for **Anbu Sivam B**, a "PCB Designer & Full Stack Developer". The website should be visually modern, responsive, and include subtle 3D animations or transitions. Use **Three.js** for animated background effects like a rotating cube, particles, or a 3D wave mesh. The design should be elegant, professional, and interactive.
+
+Include the following sections with rich content from the resume:
+
+---
+
+💡 **Header (Sticky Navbar):**
+- Full name: **Santhiya T** 
+- Title: **Software Engineer | Full Stack Developer |** 
+- Navigation links: Home | About | Skills | Projects | Experience | Education | Research & Awards | Contact
+- Add smooth scrolling and hover animations.
+
+---
+
+🏠 **Home Section:**
+- Hero text: "Hi, I’m Santhiya T" 
+- Subtext: "I build things for the web, software." 
+- Add a 3D animated rotating cube or starfield background using **Three.js**
+- Include links to:
+  - LinkedIn (https://www.linkedin.com/in/)
+  - Netlify Portfolio (https://-port-folio.netlify.app/)
+  - Git Hub(https://linktr.ee/)
+  - Linktree (https://linktr.ee/)
+---
+
+📖 **About Me Section:**
+- Add profile summary:
+  > "A highly motivated and detail-oriented Computer Science and Engineer, adept in diverse skill sets including Full Stack Development, and AI. Proven track record of delivering high-quality results in fast-paced environments..."
+
+---
+
+🛠️ **Skills Section (Grid View):**
+- 💻 **Technical Skills**: Java, Python, HTML, CSS, JavaScript, Bootstrap, MySQL, MERN Stack, REST APIs, Next.js, Power BI, Git/GitHub, Office 365, Cloud, IoT.
+- 🧠 **Soft Skills**: Public Speaking, Communication, Teamwork, Logical Thinking, Problem Solving
+
+---
+
+🚀 **Projects Section (Cards with Hover 3D Effects):**
+Each project card includes:
+- Title
+- Date
+- Short Description
+- Technologies used
+List of projects:
+1. **Educational Website with ERP** (Nov 2024 – Dec 2024)
+2. **Personal Portfolio** (April 2024)
+3. **One Touch App** (April 2025)
+4. **EV All-In-One Monitoring System** (May 2025)
+5. **Farmers Friend** (May 2024)
+
+---
+
+💼 **Experience Section (Vertical Timeline Animation):**
+- CT Tech Solutions – Full Stack Developer & Branch Development Officer (July–Aug 2024)
+- Oasis Infobyte – Android App Developer
+- CollegePur – Web Developer (Freelancer)
+- Mentorness – Data Science Intern
+- YBI Foundation – Machine Learning Intern
+
+Use animated scroll-based timeline with logos/icons for each.
+
+---
+
+🎓 **Education Section:**
+- B.E. in Computer Science and Engineering (2022–2026)
+- S.K.P. Engineering College, Affiliated to Anna University
+
+---
+
+🏆 **Research & Awards Section:**
+- Presented at 15+ National Conferences
+- 10+ Awards for Research Presentations
+
+Use animated counters and award badges.
+
+---
+
+🌐 **Languages Section:**
+- English (Fluent)
+- Tamil (Fluent)
+- Hindi (Basic)
+
+---
+
+📫 **Contact Section:**
+- 📧 anbulegend101@gmail.com / sivambanbu1012005@gmail.com
+- 📱 +91 9790155280
+- 📍 199, Kambattu, Tiruvannamalai, Tamil Nadu 606753
+
+Include a contact form that sends email using EmailJS or Formspree.
+
+---
+
+⚙️ **Technical Stack:**
+- HTML5, CSS3, JavaScript
+- Three.js for 3D animations
+- GSAP or AOS.js for smooth transitions
+- Responsive design with Flexbox/Grid
+- Optional: Add dark mode toggle
+
+---
+
+📁 **README.md should include:**
+- Project description
+- Features
+- Deployment steps (Render + GitHub)
+- Technology used
+- Author bio
+ for the above give the portfolio in light pink color FFEDFA and its constracting colour give the prompt anlone 
