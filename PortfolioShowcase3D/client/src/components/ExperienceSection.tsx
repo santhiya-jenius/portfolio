@@ -4,7 +4,7 @@ const experiences = [
   {
     title: "Full Stack Developer & Branch Development Officer",
     company: "CT Tech Solutions",
-    period: "July – August 2024",
+    period: "July 2024 – Present",
     description: "Led full-stack development initiatives and managed branch development operations, implementing scalable web solutions and coordinating cross-functional teams.",
     icon: "fas fa-code"
   },
